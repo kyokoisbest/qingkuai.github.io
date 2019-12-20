@@ -1,0 +1,7 @@
+{
+    "devDependencies": {
+        "gitbook-cli": "^2.3.2",
+        "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
+        "gitbook-plugin-toggle-chapters": "0.0.3"
+    }
+}
